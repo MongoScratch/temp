@@ -43,7 +43,7 @@ features: [
         type: 'Feature',
         geometry: {
         type: 'Point',
-        coordinates: [-99.1937364, 4342.646527777778]
+        coordinates: [-99.1937364, 19.646527777778]
         },
         properties: {
         title: "VTULT-002",
@@ -2098,12 +2098,17 @@ function addMarkersCCTV(){
   for (const feature of geojson.features) {
     // create a HTML element for each feature
     const el = document.createElement('div');
-    el.className = 'marker-postes';
     el.id = 'markerscctv';
   
     // make a marker for each feature and add to the map
     //new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).addTo(map);
-    new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 15}).setHTML(`ID: ${feature.properties.title}<br>Descripcion: ${feature.properties.description}`)).addTo(map);
+    if(feature.properties.title > 0 && feature.properties.title < 30){
+        el.className = 'marker-postes-municipales';
+        new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 15}).setHTML(`ID: ${feature.properties.title}<br>Descripcion: ${feature.properties.description}`)).addTo(map);
+    }else{
+        el.className = 'marker-postes';
+        new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 15}).setHTML(`ID: ${feature.properties.title}<br>Descripcion: ${feature.properties.description}`)).addTo(map);
+    }
   }
 }
 
