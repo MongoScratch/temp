@@ -1834,7 +1834,7 @@ features: [
         coordinates: [-99.077842, 19.658239]
         },
         properties: {
-        title: "1",
+        title: 1,
         description: "COL. IMMEX II AV. EJE 3 ESQ CALLE MANUEL MORELOS"
         }
     },
@@ -1846,7 +1846,7 @@ features: [
         coordinates: [-99.076813, 19.667023]
         },
         properties: {
-        title: "2",
+        title: 2,
         description: "COL. IZCALLI SAN PABLO CALLE PLANICIE ESQ CANAL DE CASTERA"
         }
     },
@@ -1858,7 +1858,7 @@ features: [
         coordinates: [-99.102117, 19.679217]
         },
         properties: {
-        title: "3",
+        title: 3,
         description: "COL. SAN PABLO DE LAS SALINAS CALLE QUINTANA ROO ESQ LEANDRO VALLE"
         }
     },
@@ -1870,7 +1870,7 @@ features: [
         coordinates: [-99.097103, 19.678186]
         },
         properties: {
-        title: "4",
+        title: 4,
         description: "COL. BONITO TUTITLAN CALLE QUINTANA ROO ESQ CHETUMAL"
         }
     },
@@ -1882,7 +1882,7 @@ features: [
         coordinates: [-99.094689, 19.673286]
         },
         properties: {
-        title: "5",
+        title: 5,
         description: "AGORA DE SAN PABLO DE LAS SALINAS CALLE OAXACA"
         }
     },
@@ -1894,7 +1894,7 @@ features: [
         coordinates: [-99.093327, 19.680713]
         },
         properties: {
-        title: "6",
+        title: 6,
         description: "UNIDAD MORELOS 3RA SECCION AV. PRADOS SUR BIBLIOTECA DIGITAL"
         }
     },
@@ -1906,7 +1906,7 @@ features: [
         coordinates: [-99.093328, 19.680713]
         },
         properties: {
-        title: "7",
+        title: 7,
         description: "COL. EL PORTAL SALIDA AV. PRADOS SUR"
         }
     },
@@ -1918,7 +1918,7 @@ features: [
         coordinates: [-99.079397, 19.665392]
         },
         properties: {
-        title: "8",
+        title: 8,
         description: "COL JARDINES DE SAN PABLO AV. PRADOS DEL NORTE PLAZA JARDINES"
         }
     },
@@ -1930,7 +1930,7 @@ features: [
         coordinates: [-99.152941, 19.605138]
         },
         properties: {
-        title: "9",
+        title:9,
         description: "COL. SOLIDARIDAD TERCERA SECCION AV. ESTADO DE MEXICO ESQ. SAN MARTIN DE LAS PIRAMIDES, (NUEVA ESTACION DE BOMBEROS)."
         }
     },
@@ -1942,7 +1942,7 @@ features: [
         coordinates: [-99.135622, 19.64077]
         },
         properties: {
-        title: "10",
+        title: 10,
         description: "AV. MEXIQUENSE ESQ. SAN ANTONIO (SORIANA / CENTRAL DE ABASTOS)"
         }
     },
@@ -1954,7 +1954,7 @@ features: [
         coordinates: [-99.152769, 19.649676]
         },
         properties: {
-        title: "11",
+        title: 11,
         description: "AV. CUAUTITLAN PARQUE INDUSTRIAL CARTAGENA DEPORTIVO CARTAGENA"
         }
     },
@@ -1966,7 +1966,7 @@ features: [
         coordinates: [-99161587, 19.643344]
         },
         properties: {
-        title: "12",
+        title: 12,
         description: "CALLE VALENTIN GOMEZ FARIAS BARRIO SAN JUAN ESQ. ADOLFO LOPEZ MATEOS"
         }
     },
@@ -1978,7 +1978,7 @@ features: [
         coordinates: [-99.166358, 19.644479]
         },
         properties: {
-        title: "13",
+        title: 13,
         description: "CALLE ADOLFO LOPEZ MATEOS ESQ. BOULEVARD TULTITLAN OTE BARRIO SAN JUAN"
         }
     },
@@ -1990,7 +1990,7 @@ features: [
         coordinates: [-99.164264, 19.626659]
         },
         properties: {
-        title: "14",
+        title: 14,
         description: "BOULEVARD TULTITLAN PTE, BOSQUES DE TULTITLAN (HOSPITAL DEL ISSTE /GAS G500)"
         }
     },
@@ -2002,7 +2002,7 @@ features: [
         coordinates: [-99.170483, 19.630946]
         },
         properties: {
-        title: "15",
+        title: 15,
         description: "UNIDAD ELECTRICISTAS AV. INDEPENDENCIA (FRENTE A LA ESTACION DE BOMBEROS)"
         }
     },
@@ -2014,7 +2014,7 @@ features: [
         coordinates: [-99.180107, 19.635828]
         },
         properties: {
-        title: "16",
+        title: 16,
         description: "CALLE SEGUNDA CERRADA DE ECATEPEC CASI ESQ CUARTA N (ESTACIONAMIENTO ESTACION TULTITLAN DEL SUBURBANO)"
         }
     },
@@ -2026,7 +2026,7 @@ features: [
         coordinates: [-99.180565, 19.635384]
         },
         properties: {
-        title: "17",
+        title: 17,
         description: "CALLE SEGUNDA CERRADA DE ECATEPEC ENTRADA A SUBURBANO TULTITLAN (ESTACIONAMIENTO MOTOS/ BICIS)"
         }
     },
@@ -2038,7 +2038,7 @@ features: [
         coordinates: [-99.183751, 19.599787]
         },
         properties: {
-        title: "18",
+        title: 18,
         description: "AV. JOSE LOPEZ PORTILLO ENTRADA A SUBURBANO ESTACION LECHERIA"
         }
     },
@@ -2050,7 +2050,7 @@ features: [
         coordinates: [-99.183465, 19.594275]
         },
         properties: {
-        title: "19",
+        title: 19,
         description: "AV JOSE LOPEZ PORTILLO, IZCALLI DEL VALLE CAMELLON DE CARRILES CONFINADOS MEXIBUS."
         }
     },
@@ -2062,7 +2062,7 @@ features: [
         coordinates: [-99.175049, 19.58334]
         },
         properties: {
-        title: "20",
+        title: 20,
         description: "CALLE TOLUCA ESQ ESTADO DE MEXICO, AMPLIACIÓN BUENAVISTA"
         }
     },
@@ -2074,7 +2074,7 @@ features: [
         coordinates: [-99.178972, 19.58521]
         },
         properties: {
-        title: "21",
+        title: 21,
         description: "CALLE FLAMINGOS, BUENAVISTA PARTE BAJA (CASA ROSA)"
         }
     },
